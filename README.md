@@ -1,2 +1,0 @@
-# nauking
-testing node.js
